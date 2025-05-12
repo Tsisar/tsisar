@@ -1,0 +1,18 @@
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore VSCode settings (if editing in VSCode)
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore backup files
+*~
